@@ -22,6 +22,7 @@ form {
   width: 93vw;
   max-width: 50rem;
   margin: auto;
+  flex-wrap: wrap;
 }
 form input,
 form button {
